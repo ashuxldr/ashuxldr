@@ -2,7 +2,6 @@
 <h3 align="center">Inquisitive, self-motivating and a very passionate individual currently focusing on improving my technical skills as well as soft skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuxldr&label=Profile%20views&color=0e75b6&style=flat" alt="ashuxldr" /> </p>
-<img src="https://camo.githubusercontent.com/034234914307e1c0351b18f9ec0f8a11eff3bbb7bf9db62ab74e0b3a30903164/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736869766d2e3037303140676d61696c2e636f6d2d3330333032663f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d726564" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/ashuxldr@gmail.com-30302f?style=flat&amp;logo=Gmail&amp;logoColor=red" style="max-width:100%;">
 
 - 🌱 I’m currently learning **React.js**
 
