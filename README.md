@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development and Video games**
 
-- ☕ Interests apart from coding, **lets talk over a cup of coffee**
+- ☕ Interests apart from coding, **let's talk over a cup of coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
