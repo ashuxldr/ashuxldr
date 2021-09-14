@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **MERN**
+- 👯 I’m looking to collaborate on **REACT.JS + DJANGO**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
