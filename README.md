@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **REACT.JS + DJANGO**
 
-- 🤝 I’m looking for help with **Machine Learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ashuxldr](https://github.com/ashuxldr)
 
 - 💬 Ask me about **Web Development and Video games**
